@@ -3,7 +3,7 @@
 - 🌱 I’m currently taking **Bachelor of Science in Computer Science** Major in **Software Engineering**.
 - 💞️ I’m looking to collaborate on **Godot 2D and 3D Games**, **Website Full-stack Development**, and **Software Development**.
 - 📫 Reach me on my Emails: *j.g.pagtalunan14@gmail.com* or *johngabrielpagtalunan@outlook.com*
-- ⚡ Fun fact: I started my journey in programming when I was 12.
+- ⚡ Fun fact: I started my journey in programming when I was 12, creating simple websites using HTML, CSS, and JavaScript.
 
 <!---
 SirJohnGabriel/SirJohnGabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
