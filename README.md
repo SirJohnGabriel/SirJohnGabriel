@@ -27,10 +27,6 @@
 
 ## 📊 GitHub Stats (Auto-Generated)
 
-- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c1/512.gif" alt="🏁" width="32" height="32"></picture> Total Commits: 46
-- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"></picture> Pull Requests: 
-- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32"></picture> Stars Earned: 3
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirJohnGabriel&layout=compact&theme=gruvbox)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SirJohnGabriel&theme=react-dark)
