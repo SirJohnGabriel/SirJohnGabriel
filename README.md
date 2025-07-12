@@ -6,24 +6,41 @@
 </h1>
 
 ![Animated Welcome](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="32" height="32"></picture>  I’m interested in **Fullstack Development**.
-- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fabe/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fabe/512.gif" alt="🪾" width="32" height="32"></picture> Graduate in **Bachelor of Science in Computer Science** Major in **Software Engineering**.
-- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/512.gif" alt="🌊" width="32" height="32"></picture> I’m looking to collaborate on **ASP.NET Core Web Development + Angular/Blazor/Vue** projects.
-- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32"></picture> I'm also interested in collaborating with **Godot and Unity** projects.
-- <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"></picture> Fun fact: I started my journey in programming when I was 12, creating simple websites using HTML, CSS, and JavaScript.
+<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="32" height="32"></picture>&nbsp;&nbsp;&nbsp;&nbsp;I’m interested in **Fullstack Development**.<br>
+<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fabe/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fabe/512.gif" alt="🪾" width="32" height="32"></picture>&nbsp;&nbsp;&nbsp;&nbsp;Graduate in **Bachelor of Science in Computer Science** Major in **Software Engineering**.<br>
+<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/512.gif" alt="🌊" width="32" height="32"></picture>&nbsp;&nbsp;&nbsp;&nbsp;I’m looking to collaborate on **ASP.NET Core Web Development + Angular/Blazor/Vue** projects.<br>
+<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32"></picture>&nbsp;&nbsp;&nbsp;&nbsp;I'm also interested in collaborating with **Godot and Unity** projects.<br>
+<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"></picture>&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I started my journey in programming when I was 12, creating simple websites using HTML, CSS, and JavaScript.<br>
   
-<h2 align="center">🏆 GitHub Trophies</h3>
+<h2 align="center"><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="20" height="20">
+</picture> GitHub Trophies</h3>
 
 ![Animated Welcome](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SirJohnGabriel&theme=discord&column=4" alt="GitHub Trophies" /></a></p>
-<h2 align="center">Reach out to me here:</h2>
+
+<h2 align="center"><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" alt="☕" width="25" height="25">
+</picture>Reach out to me here:</h2>
 
 ![Animated Welcome](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.g.pagtalunan14@gmail.com)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:johngabrielpagtalunan@hotmail.com)
 
-<h3 align="center">Interests</h3>
+<p align="center">
+  <a href="mailto:j.g.pagtalunan14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  &nbsp;
+  <a href="mailto:johngabrielpagtalunan@hotmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge" />
+  </a>
+</p>
 
+<h3 align="center"><picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="20" height="20"></picture> Interests</h3>
+
+<div align="center">
+  
 ![Animated Welcome](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -38,7 +55,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
-<h2 align="center">📊 GitHub Stats</h2>
+</div>
+
+<h2 align="center"><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" alt="🔮" width="32" height="32">
+</picture>GitHub Stats</h2>
 
 ![Animated Welcome](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirJohnGabriel&layout=compact&theme=gruvbox)
