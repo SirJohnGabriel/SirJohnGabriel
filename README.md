@@ -6,7 +6,7 @@
 </h1>
 
 ![Animated Welcome](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="32" height="32"></picture>&nbsp;&nbsp;&nbsp;&nbsp;I’m interested in **Fullstack Development**.<br>
+<img><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="32" height="32"></img>&nbsp;&nbsp;&nbsp;&nbsp;I’m interested in **Fullstack Development**.<br>
 <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fabe/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fabe/512.gif" alt="🪾" width="32" height="32"></picture>&nbsp;&nbsp;&nbsp;&nbsp;Graduate in **Bachelor of Science in Computer Science** Major in **Software Engineering**.<br>
 <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/512.gif" alt="🌊" width="32" height="32"></picture>&nbsp;&nbsp;&nbsp;&nbsp;I’m looking to collaborate on **ASP.NET Core Web Development + Angular/Blazor/Vue** projects.<br>
 <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32"></picture>&nbsp;&nbsp;&nbsp;&nbsp;I'm also interested in collaborating with **Godot and Unity** projects.<br>
