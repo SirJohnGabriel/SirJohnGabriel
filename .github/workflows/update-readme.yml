@@ -59,8 +59,8 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config --global user.name 'SirJohnGabriel'
+          git config --global user.email 'j.g.pagtalunan14@gmail.com'
           git add README.md
           git diff --cached --quiet || git commit -m "⬆️ Update GitHub stats"
           git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/SirJohnGabriel/SirJohnGabriel.git
