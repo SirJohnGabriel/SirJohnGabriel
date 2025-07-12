@@ -7,23 +7,23 @@
 
 ![Animated Welcome](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <img><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="32" height="32"></img>&nbsp;&nbsp;&nbsp;&nbsp;I’m interested in **Fullstack Development**.<br>
-<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fabe/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fabe/512.gif" alt="🪾" width="32" height="32"></picture>&nbsp;&nbsp;&nbsp;&nbsp;Graduate in **Bachelor of Science in Computer Science** Major in **Software Engineering**.<br>
-<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/512.gif" alt="🌊" width="32" height="32"></picture>&nbsp;&nbsp;&nbsp;&nbsp;I’m looking to collaborate on **ASP.NET Core Web Development + Angular/Blazor/Vue** projects.<br>
-<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32"></picture>&nbsp;&nbsp;&nbsp;&nbsp;I'm also interested in collaborating with **Godot and Unity** projects.<br>
-<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"></picture>&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I started my journey in programming when I was 12, creating simple websites using HTML, CSS, and JavaScript.<br>
+<img><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fabe/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fabe/512.gif" alt="🪾" width="32" height="32"></img>&nbsp;&nbsp;&nbsp;&nbsp;Graduate in **Bachelor of Science in Computer Science** Major in **Software Engineering**.<br>
+<img><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/512.gif" alt="🌊" width="32" height="32"></img>&nbsp;&nbsp;&nbsp;&nbsp;I’m looking to collaborate on **ASP.NET Core Web Development + Angular/Blazor/Vue** projects.<br>
+<img><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32"></img>&nbsp;&nbsp;&nbsp;&nbsp;I'm also interested in collaborating with **Godot and Unity** projects.<br>
+<img><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"></img>&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I started my journey in programming when I was 12, creating simple websites using HTML, CSS, and JavaScript.<br>
   
-<h2 align="center"><picture>
+<h2 align="center"><img>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="20" height="20">
-</picture> GitHub Trophies</h3>
+</img> GitHub Trophies</h3>
 
 ![Animated Welcome](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SirJohnGabriel&theme=discord&column=4" alt="GitHub Trophies" /></a></p>
 
-<h2 align="center"><picture>
+<h2 align="center"><img>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" alt="☕" width="25" height="25">
-</picture>Reach out to me here:</h2>
+</img>Reach out to me here:</h2>
 
 ![Animated Welcome](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -37,7 +37,7 @@
   </a>
 </p>
 
-<h3 align="center"><picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="20" height="20"></picture> Interests</h3>
+<h3 align="center"><img><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="20" height="20"></img> Interests</h3>
 
 <div align="center">
   
@@ -57,10 +57,10 @@
 
 </div>
 
-<h2 align="center"><picture>
+<h2 align="center"><img>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" alt="🔮" width="32" height="32">
-</picture>GitHub Stats</h2>
+</img>GitHub Stats</h2>
 
 ![Animated Welcome](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirJohnGabriel&layout=compact&theme=gruvbox)
