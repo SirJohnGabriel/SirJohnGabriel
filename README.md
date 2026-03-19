@@ -12,13 +12,13 @@
 <img><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32"></img>&nbsp;&nbsp;&nbsp;&nbsp;I'm also interested in collaborating with **Godot and Unity** projects.<br>
 <img><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32"></img>&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I started my journey in programming when I was 12, creating simple websites using HTML, CSS, and JavaScript.<br>
   
-<h2 align="center"><img>
+<!-- <h2 align="center"><img>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="20" height="20">
 </img> GitHub Trophies</h3>
 
 ![Animated Welcome](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SirJohnGabriel&theme=discord&column=4" alt="GitHub Trophies" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SirJohnGabriel&theme=discord&column=4" alt="GitHub Trophies" /></a></p> -->
 
 <h2 align="center"><img>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.webp" type="image/webp">
